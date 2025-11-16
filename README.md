@@ -1,2 +1,2 @@
 # candidmemories.gihhub.io
-This is a demo for my photography site
+This is a Testing ground for my photography site. 
